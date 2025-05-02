@@ -297,7 +297,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_imx258_sunny_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx258_sunny_eeprom.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_imx258_sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx258_sunny.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_imx258.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx258.so \
-    $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_isp_abf44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_abf44.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_isp_bcc44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_bcc44.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera_isp_be_stats44.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_isp_be_stats44.so \
@@ -364,7 +363,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera2_vpe_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_vpe_module.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmcamera2_wnr_module.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_wnr_module.so \
-    $(LOCAL_PATH)/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmjpeg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmosal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmosal.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
@@ -395,7 +393,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqmi_encdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_encdec.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqmi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqmiservices.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmiservices.so \
-    $(LOCAL_PATH)/proprietary/vendor/lib/libqomx_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_core.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqomx_jpegdec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegdec.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc_pipe.so \
     $(LOCAL_PATH)/proprietary/vendor/lib/libqomx_jpegenc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc.so \
